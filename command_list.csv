@@ -1,0 +1,95 @@
+    1  /Volumes/Untitled/graphic_design-illustrator/APRESS_ILLUSTRATOR_PATHFINDER_EFFECTS_CREATE_A_TWO-COLOR_SHAPE_AND_TYPE_BLENDS-iLLiTERATE/00002\ Illustrator_Pathfinder_Effects_-_Create_a_Two-Color_Shape_ ; exit;
+    2  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00002\ Accessing_the_CC_Libraries_Panel_in_Illustrator_for_Export ; exit;
+    3  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00003\ Accessing_the_CC_Libraries_Panel_in_Illustrator_for_Import ; exit;
+    4  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00004\ Accessing_the_CC_Libraries_Panel_in_InDesign_for_Exporting ; exit;
+    5  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00005\ Accessing_the_CC_Libraries_Panel_in_InDesign_for_Importing ; exit;
+    6  /Volumes/Untitled/graphic_design-illustrator/APRESS_ILLUSTRATOR_PATHFINDER_EFFECTS_CREATE_A_TWO-COLOR_SHAPE_AND_TYPE_BLENDS-iLLiTERATE/00002\ Illustrator_Pathfinder_Effects_-_Create_a_Two-Color_Shape_ ; exit;
+    7  /Volumes/Untitled/graphic_design-illustrator/APRESS_ILLUSTRATOR_PATHFINDER_EFFECTS_CREATE_A_TWO-COLOR_SHAPE_AND_TYPE_BLENDS-iLLiTERATE/00002\ Illustrator_Pathfinder_Effects_-_Create_a_Two-Color_Shape_ ; exit;
+    8  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00002\ Accessing_the_CC_Libraries_Panel_in_Illustrator_for_Export ; exit;
+    9  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00003\ Accessing_the_CC_Libraries_Panel_in_Illustrator_for_Import ; exit;
+   10  /Volumes/Untitled/graphic_design-illustrator/APRESS_INTRODUCTION_TO_ADOBES_CC_LIBRARIES_IN_ILLUSTRATOR_AND_INDESIGN_IMPORTING_AND_EXPORTING_ASSETS_FOR_YOUR_DESIGN_PROJECTS-iLLiTERATE/00004\ Accessing_the_CC_Libraries_Panel_in_InDesign_for_Exporting ; exit;
+   11  git --version
+   12  ls
+   13  cd HW-10
+   14  cd desktop
+   15  ls
+   16  cd hw-10
+   17  history -c && rm ~
+   18  history .bash_history
+   19  history clear
+   20  clear
+   21  git config --global user.name "Mak-hub90"  
+   22  git confiq --global user.email "alen.mak90@gmail.com"
+   23  config --global user.name "Mak-hub90" 
+   24  git config --global user.name "Mak-hub90"
+   25  git config --global user.email "alen.mak90@gmail.com"
+   26  cd Git
+   27  clear
+   28  git config --global user.name "Mak-hub90"\n
+   29  git config --global user.email "alen.mak90@gmail.com"\n
+   30  cd HW-10
+   31  git clone https://github.com/Mak-hub90/HW_10.git
+   32  cd HW_10
+   33  clear
+   34  git config --global user.name "Mak-hub90"\n
+   35  git config --global user.email "alen.mak90@gmail.com"\n
+   36  git clone https://github.com/Mak-hub90/HW_10.git
+   37  cd HW_10
+   38  git status
+   39  touch text_ignore.txt
+   40  git status
+   41  git add  text_ignore.txt
+   42  git status
+   43  git ignore text_ignore.txt
+   44  git status
+   45  .gitignore text_ignore.txt
+   46  gitignore text_ignore.txt
+   47  git commit -m "text_ignore.txt file created"
+   48  git status
+   49  touch main_test.txt
+   50  git add
+   51  git add .
+   52  git commit -m "main_test.txt"
+   53  ls
+   54  cd desctop
+   55  cd desktop
+   56  cd GIT
+   57  clear
+   58  git config --global user.name "Mak-hub90"\n
+   59  git config --global user.email "alen.mak90@gmail.com"\n
+   60  git clone https://github.com/Mak-hub90/HW_10.git
+   61  cd HW_10
+   62  touch text_ignore.txt
+   63  git status
+   64  git add text_ignore.txt
+   65  git status
+   66  nano .gitignore
+   67  git status
+   68  git add .gitignore
+   69  git commit -m "text_ignore changes"
+   70  touch main_test.txt
+   71  git add main_test.txt
+   72  git commit -m 
+   73  git commit -m "main_test.txt"
+   74  git checkout -b <banch2>
+   75  git checkout banch2
+   76  git branch
+   77  git checkout -b branch2
+   78  git branch
+   79   touch develop_test.txt
+   80  git add develop_test.txt
+   81  git commit -m "develop_test.txt"
+   82  nano develop_test.txt
+   83  git status
+   84  git add develop_test.txt
+   85  git commit -m "develop_test.txt"
+   86  git checkout main
+   87  git branch
+   88  git merge branch_branch2
+   89  git merge branch branch2
+   90  git commit
+   91  git status
+   92  git merge branch2
+   93  git merge -help
+   94  git log
+   95  command_list.csv
